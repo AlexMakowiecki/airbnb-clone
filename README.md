@@ -105,7 +105,7 @@ It's a simpler clone of the AirBnb website, rendered with React.
       ```
      </details>  
 ## Preview
-![react-info-site](https://github.com/AlexMakowiecki/react-info-site/assets/122258496/5e76b814-ca11-4d98-8271-54feb9c180b2)
+![airbnb-clone](https://github.com/AlexMakowiecki/airbnb-clone/assets/122258496/aa3e38c5-6628-4a40-9c04-009e0f8831c7)
 
 
 ## About Scrimba
